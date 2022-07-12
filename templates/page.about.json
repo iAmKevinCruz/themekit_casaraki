@@ -1,0 +1,251 @@
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "bg_position": "center-center",
+        "height": "use_screen_one_fifth",
+        "overlay_opacity": 50,
+        "overlay_color": "#000000",
+        "kicker": "",
+        "title": "About",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "show_title": false,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "1636971297781a8f64": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2018-10-06_at_14.43.56_grande_8c633c17-909b-47bb-be3c-92bae454fec4.png",
+        "bg_position": "center-center",
+        "height": "use_screen_full",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "kicker": "",
+        "title": "",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "1636971331f429110e": {
+      "type": "section-gallery",
+      "disabled": true,
+      "blocks": {
+        "16369713319e347ee0-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2018-10-06_at_14.43.56_grande_8c633c17-909b-47bb-be3c-92bae454fec4.png",
+            "link": ""
+          }
+        },
+        "16369713319e347ee0-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "16369713319e347ee0-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16369713319e347ee0-0",
+        "16369713319e347ee0-1",
+        "16369713319e347ee0-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "padding": true,
+        "scale_image": false,
+        "aspect_ratio": 0.5,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "custom-content-2": {
+      "type": "section-custom-content",
+      "blocks": {
+        "custom-content-2-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "BEGGININGS",
+            "title": "",
+            "text": "<p>Josefina A. Theo founded Casa Raki in 2018.<\/p><p>The Argentinean-born fashion photographer spent most of her childhood on the Uruguayan coast in Punta del Este and now having moved to Europe has maintained her long lasting relationship with the sea. <\/p><p>After several years of working in the e-commerce fashion industry for both Net-a-Porter and Matchesfashion.com, she felt drawnto translate her knowledge and passion into a unique sustainable luxury brand. A brand that would take her back to her roots and closer to the places she enjoys the most. With a focus on vacation wear, most of the pieces are designed to be worn day and nightas well as on the move.  <\/p>",
+            "text_size": 1,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff"
+          }
+        },
+        "fc4f74d1-8e6e-443a-9c5c-7be2cadf873e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2018-10-06_at_14.43.56_grande_8c633c17-909b-47bb-be3c-92bae454fec4.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        }
+      },
+      "block_order": [
+        "custom-content-2-0",
+        "fc4f74d1-8e6e-443a-9c5c-7be2cadf873e"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "custom-content-1": {
+      "type": "section-custom-content",
+      "blocks": {
+        "408f3aa2-d216-45ec-84d1-2aabda80da6f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_92022A5D24C4-1.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "custom-content-1-1": {
+          "type": "text",
+          "settings": {
+            "kicker": "Quality first",
+            "title": "",
+            "text": "<p>Ethically made from high-tech but ecological fabrics in a couture factory in Portugal, Casa Raki commits itself to sustainable and responsible practices from the outset. Targeting only sustainable materials and processes, while focusing on improving and extending garment life.  <\/p><p>The brand encourages an open dialogue and invites consumers to re-evaluate the relationship society has with clothing.<\/p>",
+            "text_size": 1,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "408f3aa2-d216-45ec-84d1-2aabda80da6f",
+        "custom-content-1-1"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "icons": {
+      "type": "section-icons",
+      "disabled": true,
+      "blocks": {
+        "icons-0": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-basket-return",
+            "icon_color": "#aaaaaa",
+            "title": "Free returns",
+            "text": "<p>Returns within 30 days receive a full refund.<\/p>"
+          }
+        },
+        "icons-1": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-shipment-world",
+            "icon_color": "#aaaaaa",
+            "title": "Worldwide shipping",
+            "text": "<p>Ship anywhere, rates available at checkout.<\/p>"
+          }
+        },
+        "icons-2": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-phone",
+            "icon_color": "#aaaaaa",
+            "title": "24\/7 support",
+            "text": "<p>Call us anytime at 1(800) 555-1234.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "icons-0",
+        "icons-1",
+        "icons-2"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--accent",
+        "icon_size": "icon--medium",
+        "icon_alignment": "icon--top",
+        "align_text": "text-left"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "main",
+    "1636971297781a8f64",
+    "1636971331f429110e",
+    "custom-content-2",
+    "custom-content-1",
+    "icons"
+  ]
+}

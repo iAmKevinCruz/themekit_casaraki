@@ -1,0 +1,728 @@
+{
+  "sections": {
+    "1650380875cfc98969": {
+      "type": "section-slideshow",
+      "blocks": {
+        "16503808752b51cc32-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner1_ba2c0826-4cd5-43a7-8652-54ef4d2c6280.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/banner9.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "kicker": "CHAPTER I  \/  HS22",
+            "title": "CUZCO COLLECTION",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "SHOP NOW",
+            "link": "shopify:\/\/collections\/cusco",
+            "button_color": "btn--secondary",
+            "button_style": "btn"
+          }
+        },
+        "384ebc4e-38b3-4971-a3ae-88f7b458ef7c": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/P1010798.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 5,
+            "overlay_color": "#000000",
+            "kicker": "Introducing hs22",
+            "title": "CUZCO COLLECTION",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "SHOP NOW",
+            "link": "",
+            "button_color": "btn--secondary",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "16503808752b51cc32-0",
+        "384ebc4e-38b3-4971-a3ae-88f7b458ef7c"
+      ],
+      "settings": {
+        "autoplay": false,
+        "autoplay_speed": 8,
+        "height": "use_image"
+      }
+    },
+    "165037819974102383": {
+      "type": "section-gallery",
+      "disabled": true,
+      "blocks": {
+        "1650378199da646e22-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/P1010798.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1650378199da646e22-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "padding": false,
+        "scale_image": false,
+        "aspect_ratio": 0.9,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "1654604090203d8976": {
+      "type": "section-collection",
+      "settings": {
+        "title": "BEST SELLERS",
+        "collection": "best-sellers",
+        "grid": 4,
+        "rows": 1,
+        "bg": "palette--light bg--neutral",
+        "show_view_all": false
+      }
+    },
+    "1655373012cde98034": {
+      "type": "section-collection",
+      "settings": {
+        "title": "JUST IN",
+        "collection": "just-in-website-banner",
+        "grid": 2,
+        "rows": 1,
+        "bg": "palette--light bg--neutral",
+        "show_view_all": false
+      }
+    },
+    "165037496997ff7d55": {
+      "type": "section-collection-grid",
+      "blocks": {
+        "165037496967f4b179-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": "CO-ORD SETS",
+            "link_text": "DISCOVER",
+            "image": "shopify:\/\/shop_images\/35low.jpg",
+            "button_link": "shopify:\/\/collections\/co-ord-sets"
+          }
+        },
+        "4e93c3a6-e07e-4aac-bd87-ad6ddafbe94d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": "SWIMWEAR",
+            "link_text": "DISCOVER",
+            "image": "shopify:\/\/shop_images\/27low_95fd9415-ba81-4d3a-8db4-b8115cb78ed1.jpg",
+            "button_link": "shopify:\/\/collections\/swimwear"
+          }
+        },
+        "165037496967f4b179-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": "DRESSES",
+            "link_text": "DISCOVER",
+            "image": "shopify:\/\/shop_images\/21low2.jpg",
+            "button_link": "shopify:\/\/collections\/dresses"
+          }
+        }
+      },
+      "block_order": [
+        "165037496967f4b179-0",
+        "4e93c3a6-e07e-4aac-bd87-ad6ddafbe94d",
+        "165037496967f4b179-1"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "bg": "palette--light bg--neutral",
+        "text_color": "text--white",
+        "button_style": "btn",
+        "button_color": "btn--white",
+        "overlay_opacity": 10,
+        "overlay_color": "#000000",
+        "aspect_ratio": 1.5
+      }
+    },
+    "16501112613eec3ebc": {
+      "type": "section-video",
+      "settings": {
+        "height": "use_screen_full",
+        "video_link_bg": "https:\/\/cdn.shopify.com\/s\/files\/1\/2972\/9896\/files\/IMG_4624_3.mp4?v=1650111761",
+        "object_position": "center-center",
+        "bg_position": "center-center",
+        "video_link": "",
+        "popup_text": "",
+        "kicker": "",
+        "title": "",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "163733120196a355c1": {
+      "type": "section-slideshow",
+      "disabled": true,
+      "blocks": {
+        "1637331201be12d99f-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pin____edwreya.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/pin____edwreya_e5a97242-37af-4c24-a6b6-9f20817433be.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "kicker": "further reductions",
+            "title": "SALE",
+            "richtext": "<p>UP TO 70% OFF<\/p>",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "SHOP NOW",
+            "link": "shopify:\/\/collections\/oasis-de-maranhao",
+            "button_color": "btn--secondary",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "1637331201be12d99f-0"
+      ],
+      "settings": {
+        "autoplay": false,
+        "autoplay_speed": 8,
+        "height": "use_screen_two_thirds"
+      }
+    },
+    "16348217151687e7b2": {
+      "type": "section-custom-content",
+      "disabled": true,
+      "blocks": {
+        "16348217151687e7b2-0": {
+          "type": "product",
+          "settings": {
+            "product": "emilia-shorts-flax",
+            "kicker": "Shop the look",
+            "badge_string": "",
+            "align_text": "text-center",
+            "text_color": "text--neutral",
+            "bg_color": "#f4f4f4",
+            "bg_accent": "#ffffff"
+          }
+        },
+        "c8336f54-507b-40a2-ae8c-86a428e92660": {
+          "type": "video",
+          "settings": {
+            "video_link_bg": "https:\/\/cdn.shopify.com\/s\/files\/1\/2972\/9896\/files\/IMG_9663_4.mp4?v=1634733367",
+            "object_position": "center-center",
+            "bg_position": "center-center",
+            "video_link": "",
+            "popup_text": "",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "16348217151687e7b2-0",
+        "c8336f54-507b-40a2-ae8c-86a428e92660"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "163482177878e5ebc5": {
+      "type": "section-custom-content",
+      "disabled": true,
+      "blocks": {
+        "1e8f1e45-f8cf-4573-891f-a9545114b42b": {
+          "type": "video",
+          "settings": {
+            "video_link_bg": "https:\/\/cdn.shopify.com\/s\/files\/1\/2972\/9896\/files\/IMG_9663_7.mp4?v=1634824730",
+            "object_position": "left-center",
+            "bg_position": "center-center",
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "popup_text": "",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "163482177878e5ebc5-0": {
+          "type": "product",
+          "settings": {
+            "product": "nina-dress-multicolor",
+            "kicker": "Shop the look",
+            "badge_string": "",
+            "align_text": "text-center",
+            "text_color": "text--neutral",
+            "bg_color": "#f4f4f4",
+            "bg_accent": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "1e8f1e45-f8cf-4573-891f-a9545114b42b",
+        "163482177878e5ebc5-0"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1634814162414ab8a4": {
+      "type": "section-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "collection": "oasis-featured",
+        "grid": 2,
+        "rows": 1,
+        "bg": "palette--light bg--neutral",
+        "show_view_all": false
+      }
+    },
+    "1635958205446bd2a9": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1_2.jpg",
+        "bg_position": "center-center",
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "kicker": "TRAVEL GUIDES",
+        "title": "HINTERLANDS",
+        "richtext": "<p>BY: NATALIE CHASSAY<\/p>",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "read more",
+        "link": "shopify:\/\/blogs\/travel-guides\/natalie-byron-bay-hinterlands",
+        "button_color": "btn--primary",
+        "button_style": "btn"
+      }
+    },
+    "collection-grid": {
+      "type": "section-collection-grid",
+      "disabled": true,
+      "blocks": {
+        "collection-grid-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "swimwear",
+            "title": "SWIMWEAR",
+            "link_text": "DISCOVER MORE",
+            "image": "shopify:\/\/shop_images\/swimwear_2.jpg",
+            "button_link": ""
+          }
+        },
+        "collection-grid-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "resortwear",
+            "title": "READY TO WEAR",
+            "link_text": "DISCOVER MORE",
+            "image": "shopify:\/\/shop_images\/readytowear2.jpg",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-grid-0",
+        "collection-grid-1"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 2,
+        "bg": "palette--light bg--neutral",
+        "text_color": "text--white",
+        "button_style": "btn--outline",
+        "button_color": "btn--white",
+        "overlay_opacity": 10,
+        "overlay_color": "#000000",
+        "aspect_ratio": 1
+      }
+    },
+    "16505312513d4d8d3f": {
+      "type": "section-custom-content",
+      "blocks": {
+        "0337c79f-920a-46e8-853c-8e14a094d8ec": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_box.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--bottom-right",
+            "text_color": "text--white",
+            "link_text": "NATALIA TROUSERS",
+            "link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn uppercase"
+          }
+        },
+        "4b8111dc-d7d0-47f4-971a-031e60fa8737": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_box.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--bottom-right",
+            "text_color": "text--white",
+            "link_text": "VITTO DRESS",
+            "link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn uppercase"
+          }
+        }
+      },
+      "block_order": [
+        "0337c79f-920a-46e8-853c-8e14a094d8ec",
+        "4b8111dc-d7d0-47f4-971a-031e60fa8737"
+      ],
+      "settings": {
+        "height": "image-height",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "16505303688e46c482": {
+      "type": "section-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "collection": "core",
+        "grid": 2,
+        "rows": 1,
+        "bg": "palette--light bg--neutral",
+        "show_view_all": false
+      }
+    },
+    "163481265836598f02": {
+      "type": "section-double",
+      "blocks": {
+        "163481265836598f02-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "INSPIRATION",
+            "title": "MACHU PICHU",
+            "text": "<p>For this latest collection we got inspired by the magnificent Cuzco region in Peru. In the Quechua Indian language, “Machu Picchu” means “Old Mountain.”  The Incas were some of the best masons in the world. The structures were so well built with a technique called ashlar (stones that are cut to fit together without mortar) that not even a knife blade can fit in between stones.<\/p><p> Machu Picchu was an astronomical observatory, and its sacred Intihuatana stone accurately indicates the two equinoxes. Twice a year, the sun sits directly over the stone creating no shadow. Unfortunately, most cities built by the Inca civilization were destroyed by the Spanish conquest. Machu Picchu was in a hidden location—invisible from below—and not found, making it one of the most well-preserved Inca cities and an archeological gem.<\/p><p><\/p><p><\/p>",
+            "text_size": 1,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "163481265836598f02-0"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1650380401bb06787e": {
+      "type": "section-slideshow",
+      "blocks": {
+        "165038040134931620-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1low_b01df583-3a25-4854-a0a3-b6443cb13fe2.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "165038040134931620-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_8f888917-3b7c-446a-8582-dcfa62738ad5.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "39eefb04-1765-4210-a2c3-25d2194fbc65": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3low.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "165038040134931620-0",
+        "165038040134931620-1",
+        "39eefb04-1765-4210-a2c3-25d2194fbc65"
+      ],
+      "settings": {
+        "autoplay": false,
+        "autoplay_speed": 1,
+        "height": "use_screen_full"
+      }
+    },
+    "1634812356c1b9a22a": {
+      "type": "section-gallery",
+      "disabled": true,
+      "blocks": {
+        "1634812356c1b9a22a-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_copy.jpg",
+            "link": ""
+          }
+        },
+        "1634812356c1b9a22a-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_eee0a379-b697-4866-a476-7285346a1f60.jpg",
+            "link": ""
+          }
+        },
+        "1634812356c1b9a22a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_b0d9060d-8033-4371-a3ca-154748b94ec0.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1634812356c1b9a22a-2",
+        "1634812356c1b9a22a-1",
+        "1634812356c1b9a22a-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "padding": true,
+        "scale_image": true,
+        "aspect_ratio": 0.9,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "1634822448614877c2": {
+      "type": "apps",
+      "blocks": {
+        "a42765cb-8535-4623-a19c-d2ed94d4318b": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 25,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "a42765cb-8535-4623-a19c-d2ed94d4318b"
+      ],
+      "settings": {
+        "width": "",
+        "height": "margin--medium",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "logos": {
+      "type": "section-logos",
+      "blocks": {
+        "logo-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Harpers-Bazaar-logo.png",
+            "link": ""
+          }
+        },
+        "logo-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vogue-logo-png-transparent.png",
+            "link": ""
+          }
+        },
+        "logo-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/elle-2-logo.png",
+            "link": ""
+          }
+        },
+        "logo-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Evening_Standard_logo_ca24199d-79ad-4a13-a6fe-f2ac931b111c.png",
+            "link": ""
+          }
+        },
+        "logo-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Grazia-Logo.svg_cfedc0a3-d6bd-439e-be88-65b1be95a234.png",
+            "link": ""
+          }
+        },
+        "34c65a7a-ba7c-4880-a8cf-ad3ad2ac8241": {
+          "type": "logo_image",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo-0",
+        "logo-2",
+        "logo-3",
+        "logo-4",
+        "logo-1",
+        "34c65a7a-ba7c-4880-a8cf-ad3ad2ac8241"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "icons": {
+      "type": "section-icons",
+      "blocks": {
+        "icons-0": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-basket-return",
+            "icon_color": "#fffcf9",
+            "title": "free exchanges",
+            "text": "<p>Not sure if it's the right size? We do exchanges very easy for you. <\/p>"
+          }
+        },
+        "icons-1": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-shipment-world",
+            "icon_color": "#ffffff",
+            "title": "Wordwide shipping",
+            "text": "<p>Ship anywhere, rates available at checkout.<\/p>"
+          }
+        },
+        "icons-2": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-chat",
+            "icon_color": "#ffffff",
+            "title": "24\/7 support",
+            "text": "<p>Live chat available on office hours and offline messages with a 10hr response time.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "icons-0",
+        "icons-1",
+        "icons-2"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--dark bg--invert--accent",
+        "icon_size": "icon--small",
+        "icon_alignment": "icon--top",
+        "align_text": "text-center"
+      }
+    }
+  },
+  "order": [
+    "1650380875cfc98969",
+    "165037819974102383",
+    "1654604090203d8976",
+    "1655373012cde98034",
+    "165037496997ff7d55",
+    "16501112613eec3ebc",
+    "163733120196a355c1",
+    "16348217151687e7b2",
+    "163482177878e5ebc5",
+    "1634814162414ab8a4",
+    "1635958205446bd2a9",
+    "collection-grid",
+    "16505312513d4d8d3f",
+    "16505303688e46c482",
+    "163481265836598f02",
+    "1650380401bb06787e",
+    "1634812356c1b9a22a",
+    "1634822448614877c2",
+    "logos",
+    "icons"
+  ]
+}

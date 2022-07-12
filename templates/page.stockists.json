@@ -1,0 +1,54 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "show_title": false,
+        "show_content": true,
+        "text_size": 1,
+        "align_text": "text-center",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "163697253824588fca": {
+      "type": "section-double",
+      "blocks": {
+        "163697253874f42dcf-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "STOCKISTS",
+            "title": "",
+            "text": "<p><strong>Online Exclusively at:<\/strong><\/p><p><a href=\"https:\/\/www.matchesfashion.com\/womens\/designers\/casa-raki\" target=\"_blank\" title=\"matchesfashion.com - Casa Raki \">MATCHESFASHION.COM<\/a>- Shipping Worldwide<\/p><p> - - - - - - - - - - - - - - - - -  <\/p><p><strong>United Kingdom<\/strong><\/p><p><a href=\"https:\/\/www.selfridges.com\/GB\/en\/\" target=\"_blank\" title=\"Selfridges\">Selfridges<\/a> - 400 Oxford St, Marylebone, W1A 1AB <\/p><p><a href=\"https:\/\/www.harveynichols.com\/\" target=\"_blank\">Harvey Nichols <\/a>- 109-125 Knightsbridge, Belgravia, SW1X 7RJ <\/p><p><a href=\"https:\/\/www.birchcommunity.com\/\" target=\"_blank\">Birch<\/a> - Lieutenant Ellis Way, Cheshunt, EN7 5HW<\/p><p>Love Brand - 170 Westbourne Grove, London W11 2RW<\/p><p>- - - - - - - - - - - - - - - - - <\/p><p><strong>Spain<\/strong><\/p><p><a href=\"https:\/\/www.elcorteingles.es\/\" target=\"_blank\">El Corte Inglés -<\/a>  Calle de Serrano, 47, Madrid.<\/p><p><a href=\"https:\/\/www.misiamadrid.com\/\" target=\"_blank\">Misia<\/a> - Calle Amaniel, 19, 28015 Madrid. <\/p><p> - - - - - - - - - - - - - - - - -  <\/p><p><strong>Italy<\/strong><\/p><p><a href=\"https:\/\/www.rinascente.it\/rinascente\/it\" target=\"_blank\">La Rinascente <\/a>- Piazza Duomo, Milan.<\/p><p> - - - - - - - - - - - - - - - - -  <\/p><p><strong>Portugal<\/strong><\/p><p><a href=\"https:\/\/byrory.com\/\" target=\"_blank\">By Rory<\/a> - Quinta shopping Quinta do Lago Almancil 8135- 862 Louie. <\/p><p> - - - - - - - - - - - - - - - - -  <\/p><p> <strong>Germany <\/strong><\/p><p><a href=\"https:\/\/www.kadewe.de\/en\/\" target=\"_blank\">KaDeWe <\/a>- Tauentzienstraße 21-24, 10789 Berlin <\/p><p><a href=\"https:\/\/www.marin-milou.com\/de_DE\" target=\"_blank\">Marin Milou<\/a> - Neuer Wall 61, 20354 Hamburg<\/p><p> - - - - - - - - - - - - - - - - -  <\/p><p> <strong>Austria <\/strong><\/p><p><a href=\"https:\/\/firusas.com\/\" target=\"_blank\">Firusas<\/a> - Vohburggasse 2, 1210 Wien, Austria<\/p><p> - - - - - - - - - - - - - - - - -  <\/p><p><strong>America<\/strong> <\/p><p>Hawaii<\/p><p><a href=\"https:\/\/www.fourseasons.com\/maui\/\" target=\"_blank\">Four Seasons Maiu<\/a> - 3900 Wailea Alanui Dr, Wailea.  <\/p><p>-<\/p><p>California<\/p><p><a href=\"https:\/\/www.postranchinn.com\" target=\"_blank\" title=\"https:\/\/www.postranchinn.com\">Post Ranch Inn<\/a> - 47900 CA-1, Big Sur, CA 93920<\/p><p>- - - - - - - - - - - - - - - - - <\/p><p><strong>Japan<\/strong><\/p><p><a href=\"https:\/\/www.tomorrowland.co.jp.e.mf.hp.transer.com\/\" target=\"_blank\" title=\"Tomorrowland\">Tomorrowland <\/a>- Selected Stores Tokyo<\/p><p> - - - - - - - - - - - - - - - - - <\/p><p><strong>Saudi Arabia<\/strong><\/p><p><a href=\"https:\/\/the-drawer.com\/\" target=\"_blank\">The Drawer<\/a> - 7628 Al Qadi Lyas Street, Al Zahra District, Al Malaz, Riyadh<\/p><p> - - - - - - - - - - - - - - - - - <\/p><p> <strong>Maldives<\/strong><\/p><p><a href=\"https:\/\/www.joali.com\/\" target=\"_blank\">Joali Maldives<\/a> - Muravandhoo Island Raa Atoll <\/p><p>- - - - - - - - - - - - - - - - - <\/p><p><strong>New Zeland<\/strong><\/p><p><a href=\"https:\/\/www.museboutique.co.nz\/\" target=\"_blank\">Muse Boutique<\/a> - 264 Ponsonby Road<\/p><p><a href=\"https:\/\/www.museboutique.co.nz\/\" target=\"_blank\">Muse Boutique<\/a> - 11 Teed Street<\/p><p>- - - - - - - - - - - - - - - - - <\/p><p><strong>Mauritius<\/strong><\/p><p><a href=\"https:\/\/www.oneandonlyresorts.com\/one-and-only-le-saint-geran-mauritius\" target=\"_blank\">One & Only<\/a> - Le Saint Géran <\/p><p>- - - - - - - - - - - - - - - - - <\/p><p><strong>Argentina<\/strong><\/p><p><a href=\"http:\/\/www.evangelinabomparola.com\/\" target=\"_blank\">Evangelina Bomparola<\/a> - Av. Alvear 1923, Buenos Aires.<\/p>",
+            "text_size": 1,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "163697253874f42dcf-0"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "163697253824588fca"
+  ]
+}

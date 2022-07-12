@@ -1,0 +1,262 @@
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Photo_15-11-2021_21_11_33.jpg",
+        "bg_position": "center-center",
+        "height": "use_screen_one_fifth",
+        "overlay_opacity": 40,
+        "overlay_color": "#000000",
+        "kicker": "",
+        "title": "LOUISA",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "show_title": false,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "page-lookbook-1": {
+      "type": "section-gallery",
+      "blocks": {
+        "page-lookbook-1-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2021-11-17_at_14.36.58.png",
+            "link": ""
+          }
+        },
+        "page-lookbook-1-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2021-11-17_at_14.52.07.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "page-lookbook-1-2",
+        "page-lookbook-1-3"
+      ],
+      "settings": {
+        "full_width": false,
+        "padding": true,
+        "scale_image": true,
+        "aspect_ratio": 1,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "page-lookbook-text-1": {
+      "type": "section-gallery-text",
+      "blocks": {
+        "page-lookbook-text-1-0": {
+          "type": "text",
+          "settings": {
+            "title": "Nantucket Island",
+            "text": "<p><\/p><p>I’ve been going to this island since I was 9 years old, it holds beautiful family memories and a nostalgia that is hard to beat. I’ve grown up knowing people there who hold a very special place in my heart.<\/p><p>. <\/p><p>My favourite restaurant is straight Wharf, it’s right by the harbour. Inside its candlelit, cosy vibes with yummy food. If you get a table outside you hear the ferry coming in which I love. Ask for Peter, the best host, and order a bottle of the ‘Nancy’ Chardonnay by Donelan wines, the best glass of white you’ll taste on the island, named after the mother of a family run winery owned by Tripp and Cush Donelan.<\/p><p>.<\/p><p>Late afternoon oysters at the Sand Bar is a winner, they have live music, it’s fun, relaxed\/ toes in sand sort of thing, cold beer and good times.<\/p>",
+            "text_align": "text-left"
+          }
+        }
+      },
+      "block_order": [
+        "page-lookbook-text-1-0"
+      ],
+      "settings": {
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "page-lookbook-2": {
+      "type": "section-gallery",
+      "blocks": {
+        "page-lookbook-2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo_15-11-2021_20_53_34.jpg",
+            "link": ""
+          }
+        },
+        "page-lookbook-2-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo_15-11-2021_21_11_33_8b29074f-5d33-4c35-bbc2-3d74bbc105b8.jpg",
+            "link": ""
+          }
+        },
+        "page-lookbook-2-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo_15-11-2021_20_55_41.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "page-lookbook-2-0",
+        "page-lookbook-2-1",
+        "page-lookbook-2-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "padding": true,
+        "scale_image": true,
+        "aspect_ratio": 1,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "page-lookbook-text-2": {
+      "type": "section-gallery-text",
+      "blocks": {
+        "page-lookbook-text-2-0": {
+          "type": "text",
+          "settings": {
+            "title": "BEST HIDDEN SECRETS",
+            "text": "<p><\/p><p>The Hospital Thrift Shop is where I have picked up everything from paintings to jewellery and vintage tableware. It’s opppiste Black Eyed Susan’s on India street (great for breakfast) and a favourite place of mine to browse in the morning for vintage finds.<\/p><p> <\/p><p>Morning swims at Steps beach, our house was close to Steps and it’s a quiet spot with a few locals and lots of dogs running around. I’ll jog on the sand and then swim early morning when the fog is lifting and the skies start to clear.<\/p><p> <\/p><p>Take a boat from the harbour to Toppers when you want something special or a romantic date night . If you’re lucky and it is clear it’s a beautiful boat ride across the island.<\/p><p> <\/p><p>If you love fishing, early morning catches with Captain Tom’s Charters are the best and Jason is the ultimate fisherman.<\/p><p> <\/p><p>Ice cream at the juice bar with the children, it’s well known but a tradition, the queues are long but the wait is worth it. I always choose Brownies a la mode. <\/p><p> <\/p><p>Sunset at Madaket beach. Nantucket is where we go to relax, so my family take a cooler filled with beer, cheese and good wines. The light there is so beautiful. <\/p><p> <\/p><p>Get a beach permit and drive onto the beach at Eel point, it’s really what Nantucket is about. Spend the day in rickety chairs in the sand. Make your own sandwiches or pick some up our favourite ‘Something Natural’ bakery. Get cookies too. <\/p><p><\/p><p> <\/p><p>Cisco Brewers for the best music, cold beer and Millie’s for the ultimate fish tacoes<\/p><p> <\/p><p>Morning Buns at Fog Island Cafe on Main Street , I sit outside on the bench when I’m jet lagged with my husband and our children, drinking coffee and eating buns ...and we watch the island wake up. I’ve met some of the most interesting people to date on that little bench. Arrrive early it gets busy. <\/p><p> <\/p><p>Bike rides to see turtles on the way to Madaket. Buy some chicken and string at stop n shop in town and watch the amazement of your children pulling the turtles out of the pond and releasing them happy (no turtles are hurt!)<\/p>",
+            "text_align": "text-left"
+          }
+        }
+      },
+      "block_order": [
+        "page-lookbook-text-2-0"
+      ],
+      "settings": {
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "page-lookbook-3": {
+      "type": "section-gallery",
+      "blocks": {
+        "page-lookbook-3-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo_15-11-2021_20_56_36.jpg",
+            "link": ""
+          }
+        },
+        "page-lookbook-3-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo_15-11-2021_21_08_02.jpg",
+            "link": ""
+          }
+        },
+        "page-lookbook-3-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo_15-11-2021_21_09_56.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "page-lookbook-3-0",
+        "page-lookbook-3-1",
+        "page-lookbook-3-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "padding": true,
+        "scale_image": true,
+        "aspect_ratio": 1,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "page-lookbook-text-3": {
+      "type": "section-gallery-text",
+      "blocks": {
+        "page-lookbook-text-3-0": {
+          "type": "text",
+          "settings": {
+            "title": "HOLIDAY STYLE",
+            "text": "<p><\/p><p>I escape with my husband and children. That’s my favourite. But also with my extended family,  parents, aunties and cousins. My mother is from Virginia and our family is huge and live all along the East Coast. We are extremely close and we make sure we all meet up at least once a year to be together. Usually more. These are always my favourite times. And of course my best friends, many of whom I’ve had since I was 18 years old or younger . Old friendship is the best friendship. I am lucky to have the type of friends who I’ve grown up with and we always have each other’s backs. It’s an extended family. <\/p><p> <\/p><p>My holiday style is laid back luxe. Lots of laughing with the main goal of escaping busy London life. I love putting on a pretty dress and getting dressed up, but at heart I’m someone who loves to swim in the sea, loves to feel sand in my toes and sea salt on my skin (my towel is always covered in sand, I don’t understand how people manage to keep their towel sand free!)<\/p>",
+            "text_align": "text-left"
+          }
+        }
+      },
+      "block_order": [
+        "page-lookbook-text-3-0"
+      ],
+      "settings": {
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "1637159740bacf400f": {
+      "type": "section-gallery",
+      "blocks": {
+        "163715974008ac13e5-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2021-11-17_at_14.54.32.png",
+            "link": ""
+          }
+        },
+        "163715974008ac13e5-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2021-11-17_at_15.48.52.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163715974008ac13e5-0",
+        "163715974008ac13e5-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "padding": true,
+        "scale_image": true,
+        "aspect_ratio": 1,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "16371606492a6768c7": {
+      "type": "section-gallery-text",
+      "blocks": {
+        "1637160649935c8045-0": {
+          "type": "text",
+          "settings": {
+            "title": "FAVOURITE Casa Raki PIECE",
+            "text": "<p><\/p><p>I love the <a href=\"https:\/\/casaraki.com\/collections\/ciudad-perdida\/products\/greta-top-white?variant=40844530712751\" target=\"_blank\" title=\"https:\/\/casaraki.com\/collections\/ciudad-perdida\/products\/greta-top-white?variant=40844530712751\">Greta Top in white<\/a> because I can dress it up in London but then wear it in France or Italy with sandals or barefoot and still feel chic. I love the brand for its dedication to quality, these pieces will last, and it’s sustainable stance. And of course a huge respect for the founder of the brand, josefina, who shares my love of travel.<\/p>",
+            "text_align": "text-left"
+          }
+        }
+      },
+      "block_order": [
+        "1637160649935c8045-0"
+      ],
+      "settings": {
+        "bg": "palette--light bg--neutral"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "main",
+    "page-lookbook-1",
+    "page-lookbook-text-1",
+    "page-lookbook-2",
+    "page-lookbook-text-2",
+    "page-lookbook-3",
+    "page-lookbook-text-3",
+    "1637159740bacf400f",
+    "16371606492a6768c7"
+  ]
+}

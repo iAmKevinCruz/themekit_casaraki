@@ -1,0 +1,66 @@
+
+            @import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&family=Caudex:wght@400;700&family=Lato:wght@400;700&family=Montserrat:wght@400;700&family=Old+Standard+TT:wght@400;700&family=Open+Sans:wght@400;700&family=Oswald:wght@400;700&family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&family=Caudex:wght@400;700&family=Inter:wght@400;700&family=Lato:wght@400;700&family=Montserrat:wght@400;700&family=Old+Standard+TT:wght@400;700&family=Open+Sans:wght@400;700&family=Oswald:wght@400;700&family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap');
+            #closedPopUp {
+              position: fixed;
+              z-index: 99999999999;
+          }
+          #openPopUp,
+		      #successPopUp {
+              position: fixed;
+              z-index: 99999999999;
+          }
+          #submitButton {
+            cursor: pointer;
+          }
+          #submitButton:disabled {
+            color: #c1c1c1;
+            border: 1px solid #eaeaea;
+            cursor: not-allowed;
+          }
+          @media (max-width: 600px) {
+              #closedPopUp {
+                  width: 100%;
+                  right: 0;
+                  bottom: 0px;
+              }
+              #openPopUp,
+              #successPopUp {
+                top: 0px;
+                width: 100vw !important;
+                height: 100vh;
+                border-radius: none;
+                bottom: 0;
+              }
+              #openPopUp > div {
+                margin: 0;
+                padding: 0;
+              }
+              footer {
+                  margin-bottom: 30px;
+                  display: block;
+              }
+          }
+          @media (min-width: 601px) {
+              #closedPopUp,
+              #openPopUp,
+              #successPopUp {
+                  right: 24px;
+                  width: 360px;
+              }
+              #closedPopUp {
+                bottom: 0;
+              }
+              #openPopUp,
+              #successPopUp {
+                bottom: 24px;
+                border-radius: 16px;
+              }
+              #openPopUp > div {
+                  border-radius: 16px;
+              }
+              #successPopUp > div {
+                border-radius: 16px;
+              }
+          }
+          

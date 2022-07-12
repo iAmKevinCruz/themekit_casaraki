@@ -1,0 +1,269 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "settings": {
+        "kicker": "",
+        "show_title": false,
+        "show_content": true,
+        "text_size": 1,
+        "align_text": "text-center",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "1634810340d809dfda": {
+      "type": "section-double",
+      "disabled": true,
+      "blocks": {
+        "1634810340d809dfda-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "how are we sustainable?",
+            "title": "",
+            "text": "<p>We take pride in being a small independent boutique brand. South American inspired, designed in London and made ethically in Portugal. <\/p><p>We believe everyone in the industry has options and alternatives to address the issues of sustainability and waste. We believe design and sustainability go hand-in-hand. As a team we thrive on exploring and discovering new ways to improve our commitment to protecting the environment. We envision a fashion industry of the future where sustainability is the norm, but for now, we are excited and proud to partner with like-minded companies, mills, factories, and people to produce our garments as eco-consciously and ethically as possible. Join us, in taking a step in the right direction.<\/p>",
+            "text_size": 1,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff"
+          }
+        },
+        "1634810340d809dfda-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ancienthandloom.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        }
+      },
+      "block_order": [
+        "1634810340d809dfda-0",
+        "1634810340d809dfda-1"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1634810429da7367e4": {
+      "type": "section-double",
+      "disabled": true,
+      "blocks": {
+        "1634810429da7367e4-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/360_F_139904743_Ok8cxtEunwDJFcWpVuT8WM22HlbW5QYK.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 25,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "FABRIC AND MATERIALS",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "1634810429da7367e4-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "",
+            "text": "<p>In order to make ethically made clothing we choose each material with intention and care. <\/p><p>From labels to the fabrics, everything is chosen thoughtfully. When designing we think about what fabric will work best. <\/p><p>We include recycled nylon or recycled polyester in all our swimwear, even in our linings. ECONYL® takes recycled materials to a whole exciting new level by turning waste into a resource. To make ECONYL®, waste such as industrial plastic, waste fabric and fishing nets from the oceans is recycled and regenerated into a new nylon yarn that is exactly the same quality as virgin nylon. Our signature textured fabric include a high tech totally renawable resource yarn, sourced from Castor Bean, a plant. This yarn has a 25% less impact on climate change compared to a standard polyamide.  <\/p><p>For our Resortwear collection we selected a 100% GOTS certified organic linen from Belgium. From field to fiber, from yarn to fabric, the making of linen is a story of passion and craftsmanship whilst being the most sustainable fabric in the planet. We also use materials like Cupro (Made from the cotton waste production) and Organic Cotton's from Italy and France. All of them are Oeko-Tex certified. <\/p>",
+            "text_size": 1,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "1634810429da7367e4-1",
+        "1634810429da7367e4-0"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "163481063754bab839": {
+      "type": "section-double",
+      "disabled": true,
+      "blocks": {
+        "163481063754bab839-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "",
+            "text": "<p><strong>COLD IS COOL<\/strong><\/p><p>Cold water is always the way to go. Not only is it better for the environment but it's definitely better for your garments. Washing your clothes in cold water is an easy way to save energy and prevent carbon pollution, while protecting your garment from color fading.<\/p><p><strong><br\/>HANG IT UP<\/strong><\/p><p>Indoors or outdoors, hanging your clothes is a convenient and sustainable alternative to machine drying. Clothes last longer when hung dry because they suffer less wear and tear from the heat of the dryer. This will avoid fiber degradation. Tip: Don’t put dark pieces in bright\/direct sunlight or they will fade, dry them in the shade. <\/p><p><br\/><strong>GO NATURAL<\/strong><\/p><p>When shopping for laundry products, think natural. Natural detergents and stain removers are made from plant and vegetable-based ingredients (rather than petroleum).<\/p>",
+            "text_size": 1,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff"
+          }
+        },
+        "163481063754bab839-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/laundry-963150_640.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 25,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "TAKING CARE OF YOUR GARMENTS",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        }
+      },
+      "block_order": [
+        "163481063754bab839-0",
+        "163481063754bab839-1"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "16348093011aad5207": {
+      "type": "section-gallery",
+      "disabled": true,
+      "blocks": {
+        "16348093011aad5207-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/360_F_290779396_8cif20PTwMx5fzLlYwmwzQh17ZCKm9vk.jpg",
+            "link": ""
+          }
+        },
+        "16348093011aad5207-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/istockphoto-545377016-612x612.jpg",
+            "link": ""
+          }
+        },
+        "16348093011aad5207-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Woman_loom_yellow.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16348093011aad5207-0",
+        "16348093011aad5207-2",
+        "16348093011aad5207-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "padding": true,
+        "scale_image": true,
+        "aspect_ratio": 0.8,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "16348116608536bac6": {
+      "type": "section-double",
+      "disabled": true,
+      "blocks": {
+        "16348116608536bac6-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "HOW CAN WE HELP THE INDUSTRY?",
+            "title": "OUR COMMITMENT",
+            "text": "<p>We work to reduce the negative impacts associated with manufacturing and to ensure that all people involved are treated fairly and respectfully along the way. We are proud to be partner with an ethical, women-owned and operated factory in Portugal and Bulgaria. This progressive factory boasts many highly regarded industry certifications for labor, social, and ecological practices.  <\/p><p><br\/><strong>We limit the amount of garments we create each season to ensure every collection is unique and that we are not wasting resources. Your garment is truly one of a precious few. <\/strong><\/p>",
+            "text_size": 1,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff"
+          }
+        },
+        "16348116608536bac6-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "Shop Now",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        }
+      },
+      "block_order": [
+        "16348116608536bac6-0",
+        "16348116608536bac6-1"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1634810340d809dfda",
+    "1634810429da7367e4",
+    "163481063754bab839",
+    "16348093011aad5207",
+    "16348116608536bac6"
+  ]
+}
