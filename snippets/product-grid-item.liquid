@@ -80,6 +80,20 @@
 
 {%- capture swatches -%}
   {%- if settings.swatches_enable and settings.swatches_collection_enable -%}
+    {% comment %} <div class="hc-swatch-container">
+      {% for tag in product.tags %}
+          {% if tag contains '_swatch_' %}
+              {% assign product_handle = tag | replace: "_swatch_", "" %}
+              {% assign tag_product = all_products[product_handle] %}
+              {% assign product_image = tag | replace: "_swatch_", "" | append: '.png' | file_img_url %}
+              <a href="{{tag_product.url}}">
+              <script>console.log("hello")</script>
+                <img src="{{ product_image }}"/>
+              </a>
+          {% endif %}
+      {% endfor %}
+    </div> {% endcomment %}
+
     {%- capture swatch_translation -%}{{ 'general.swatches.color' | t }}{%- endcapture -%}
     {%- assign swatch_labels = swatch_translation | append: ',' | split: ',' -%}
     {%- for label in swatch_labels -%}

@@ -85,8 +85,9 @@
         {% if product.media.size > 1 %}
           <div data-product-thumbs class="media__thumb__wrapper">
             {% for media in product.media %}
-              <div class="media__thumb" 
+              <div class="media__thumb"
                 data-slideshow-thumbnail 
+                data-thumbnail-color="{{ media.alt }}"
                 data-media-select="{{ media.id }}">
                 <img alt="{{ media.alt | strip_html | escape }}" src="{{ media.preview_image.src | img_url: '200x200', crop: 'center' }}">
                 {%- if media.media_type == 'model' -%}
